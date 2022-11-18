@@ -1,2 +1,2 @@
 # USASK_Lecture
-Final Lecture repository - Introduction to Python and Numpy
+Resources for Introduction to Python lecture.   
