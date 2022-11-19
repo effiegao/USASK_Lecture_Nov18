@@ -1,0 +1,31 @@
+print("Hello Jupyter!")
+
+s = "Hello World"
+s[:]
+s[-1] # index the last letter
+s[:-1] # remove the last letter
+
+**Slicing in step size**
+s[::2]
+
+**reverse a string**
+s[::-1]
+
+s.split() # split the single word in the string
+
+s.split("e") # split by a specific element
+
+"""
+String Format
+"""
+player = "Thomas"
+points = 33
+
+f'Last night, {player} scored {points} points' 
+
+"""
+Make a dictionary
+"""
+
+my_dict = {"key1":"value1", "key2":"value2"}
+my_dict['key2']
